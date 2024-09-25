@@ -1,0 +1,20 @@
+/* Untuk tombol khusus */
+.btn-custom {
+    background-color: #007bff;
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+.btn-custom:hover {
+    background-color: #0056b3;
+}
+
+/* Efek hover pada tabel */
+.table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Ikon di dalam tombol */
+.btn-sm i {
+    margin-right: 5px;
+}
