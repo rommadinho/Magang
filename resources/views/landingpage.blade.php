@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Landing Page</title>
+    <title>Sistem Informasi SDM RS Bhayangkara</title>
     <style>
         * {
             margin: 0;
@@ -74,7 +74,7 @@
             align-items: center;
             text-align: center;
             flex-direction: column;
-            color: black;
+            color: white;
             transition: all 0.5s ease;
         }
 
@@ -88,7 +88,7 @@
         .hero a.btn {
             padding: 10px 20px;
             background-color: #f0db4f;
-            color: black;
+            color: rgb(2, 2, 2);
             text-decoration: none;
             border-radius: 5px;
             transition: background-color 0.3s, transform 0.3s;
@@ -227,23 +227,23 @@
 
     <!-- Additional Content Sections for Scroll -->
     <div class="section">
-        <h2>About Us</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui sagittis.</p>
+        <h2>Tentang Kami</h2>
+        <p>RS Bhayangkara berkomitmen memberikan pelayanan kesehatan terbaik bagi seluruh masyarakat. Dengan dukungan sistem informasi SDM yang modern, kami terus berinovasi untuk meningkatkan kualitas pelayanan dan pengelolaan sumber daya manusia yang efisien dan transparan.</p>
     </div>
-
+    
     <div class="section">
-        <h2>Our Services</h2>
-        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam.</p>
+        <h2>Layanan Kami</h2>
+        <p>Melalui sistem informasi SDM, kami menawarkan solusi manajemen sumber daya manusia yang mencakup pengelolaan data karyawan, absensi, penilaian kinerja, dan penggajian. Sistem ini dirancang untuk mendukung operasional RS Bhayangkara dalam meningkatkan produktivitas dan akuntabilitas tenaga kesehatan.</p>
     </div>
-
+    
     <div class="section">
-        <h2>Contact Us</h2>
-        <p>Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</p>
+        <h2>Hubungi Kami</h2>
+        <p>Untuk informasi lebih lanjut tentang layanan dan sistem informasi SDM kami, Anda dapat menghubungi tim kami di RS Bhayangkara. Kami siap membantu menjawab pertanyaan dan memberikan dukungan terbaik bagi solusi kesehatan Anda.</p>
     </div>
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2024 My Website. All rights reserved.</p>
+        <p>&copy; 2024 Sistem Informasi SDM.Rs Bhayangkara Lumajang</p>
     </footer>
 
 </body>

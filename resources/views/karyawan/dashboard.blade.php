@@ -2,10 +2,10 @@
 
 @section('content')
 <div class="container mt-4">
-    <h2>Daftar Penilaian</h2>
+    <h2>Data Karyawan</h2>
 
     <div class="d-flex align-items-center mb-3">
-        <a href="{{ route('penilaian.create') }}" class="btn btn-success me-2">Tambah</a>
+        <a href="{{ route('karyawan.create') }}" class="btn btn-success me-2">Tambah</a>
         <a href="{{ route('karyawan.unduh-pdf') }}" class="btn btn-info">Unduh PDF</a>
     </div>
     @if (session('success'))
